@@ -174,11 +174,15 @@ streamlit run dashboard/app.py
 
 ## Output Assets To Showcase
 
-- Confusion matrix: [outputs/plots/confusion_matrix.png](outputs/plots/confusion_matrix.png)
-- Attack distribution: [outputs/plots/attack_distribution.png](outputs/plots/attack_distribution.png)
-- Risk scatter plot: [outputs/plots/risk_scatter.png](outputs/plots/risk_scatter.png)
-- Alert timeline: [outputs/plots/alert_timeline.png](outputs/plots/alert_timeline.png)
-- Location threat plot: [outputs/plots/location_threats.png](outputs/plots/location_threats.png)
+- Confusion matrix: ![](outputs/plots/confusion_matrix.png)
+- Attack distribution: ![](outputs/plots/attack_distribution.png)
+- Risk scatter plot: ![](outputs/plots/risk_scatter.png)
+- Alert timeline: ![](outputs/plots/alert_timeline.png)
+- Location threat plot: ![](outputs/plots/location_threats.png)
+## Dashboard output:
+-![](outputs/prj5_1.png)
+-![](outputs/prj5_2.png)
+-![](outputs/prj5_4.png)
 
 ## Simulation Story
 
