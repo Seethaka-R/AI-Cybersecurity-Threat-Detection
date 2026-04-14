@@ -1,0 +1,6 @@
+metric,value
+total_test_events,800
+predicted_threats,352
+critical_alerts,16
+high_alerts,292
+top_detected_attack,normal
